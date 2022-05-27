@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shweta Sheladiya</h1>
 <h3 align="center">A passionate frontend developer from Ahmedabad</h3>
 
-- 🔭 I’m currently working on [React.js](http://prydansoftware.com/)
+- 🔭 I’m currently working on [React.Native](http://prydansoftware.com/)
 
-- 🌱 I’m currently learning **Redux,next.js.**
+- 🌱 I’m currently learning **Redux,next.js,React-native.**
 
 - 💟 Proven ability to analyse problems, root causes, and develop innovative.
 
